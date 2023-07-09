@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Kochouseph26John
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning BTech CSE
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin  https://www.linkedin.com/in/kochouseph-john-b86149212
 
 <!---
