@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kochouseph26John
-- 👀 I’m interested in coding
-- 📫 How to reach me linkedin  https://www.linkedin.com/in/kochouseph-john-b86149212
+- 👀 I do code
+- 📫 How to reach me LinkedIn  https://www.linkedin.com/in/kochouseph-john-b86149212
 
 <!---
 Kochouseph26John/Kochouseph26John is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
