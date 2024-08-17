@@ -31,7 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kochouseph26john&show_icons=true&locale=en" alt="kochouseph26john" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kochouseph26john&" alt="kochouseph26john" /></p>
 
-<img src="https://mulearn.org/embed/rank/kochousephjohn@mulearn"></img>
+<img src="https://mulearn.org/embed/rank/kochousephjohn@mulearn" width=250></img>
 <!---
 Kochouseph26John/Kochouseph26John is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
